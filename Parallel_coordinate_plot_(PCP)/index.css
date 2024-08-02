@@ -1,0 +1,13 @@
+body {
+    padding-left: 20px;
+}
+
+div#legend {
+    display: flex;
+    flex-direction: column;
+}
+
+fieldset {
+    display: flex;
+    justify-content: space-evenly;
+}
